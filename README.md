@@ -20,7 +20,7 @@
  <details>
   <summary>School Projects</summary>
   
-  - [AthleticStorm](https://github.com/walker76-school/athleticstorm) - React app with Java Spring backend for managing college football data about teams, coaches, coordinators and players. Built for CSI 43C9 Software Engineering II at Baylor University.
+  - [AthleticStorm](https://github.com/walker76-school/athleticstorm) - React app with Java Spring backend for managing college football data about teams, coaches, coordinators and players. Built for CSI 43C9 Capstone I at Baylor University.
   
   - [SHiiP](https://github.com/walker76-school/shiip) - Simplified version of the HTTP/2.0 protocol written with Java native sockets. Built for CSI 4321 Data Communications at Baylor University.
   
